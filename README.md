@@ -6,3 +6,9 @@
 * To meet the all of the user requirements, a login screen, SMS permission screen, event list screen, and add event screen needed to be added. Additionally, a feature to send a text message when a new event is scheduled had to implemented. The design allows the user to very quickly traverse the app and accomplish these tasks while receiving feedback from their input, which is why I personally think they worked well from a design standpoint!
 3. How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 * I worked on the code for my app slowly, finishing each portion before moving on to the next. Working incrementally in this way is something that I've learned has helped to make bigger projects feel less overwhelming, and spending enough time on each module means they can be fully tested and checked for quality without having to rush. I used this for strategy for both comment documentation and code, and absolutely plan to cntinue using it in the future.
+4. How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+*
+5. Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+*
+6. In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+* 
