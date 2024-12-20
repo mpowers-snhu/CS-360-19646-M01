@@ -7,7 +7,7 @@
 3. How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
 * I worked on the code for my app slowly, finishing each portion before moving on to the next. Working incrementally in this way is something that I've learned has helped to make bigger projects feel less overwhelming, and spending enough time on each module means they can be fully tested and checked for quality without having to rush. I used this for strategy for both comment documentation and code, and absolutely plan to cntinue using it in the future.
 4. How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
-*
+* I tested everything manually, making sure every case was covered. For example, for my login screen I tested correct/incorrect logins and existing/new users. For text boxes, I made sure to enter invalid input to check for errors that might occur. Testing every feature thoroughly like this ensures that rare cases won't crash the app during actual use after release. Like the above answer, I also tested screens incrementally and didn't move on until I was happy with each.
 5. Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
 *
 6. In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
