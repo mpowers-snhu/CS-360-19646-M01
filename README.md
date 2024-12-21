@@ -9,6 +9,6 @@
 4. How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
 * I tested everything manually, making sure every case was covered. For example, for my login screen I tested correct/incorrect logins and existing/new users. For text boxes, I made sure to enter invalid input to check for errors that might occur. Testing every feature thoroughly like this ensures that rare cases won't crash the app during actual use after release. Like the above answer, I also tested screens incrementally and didn't move on until I was happy with each.
 5. Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
-*
+* In order to make the UI look as closely as possible to my initial design, I had to add gradient colors to buttons. Initially this didn't work as planned, and I found out it was because there was a known bug with current buttons Views. To get around this, I had to convert them to older "Compat" buttons, after which the gradients worked fine. Other than this, creating a new database shell using usernames as a prefix (i.e., user1.event.db) was a simple solution I was proud to figure out/come up with on my own, letting you save multiple event lists on one device.
 6. In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 * 
